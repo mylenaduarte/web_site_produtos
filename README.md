@@ -1,2 +1,2 @@
 # web_site_produtos
-Site de venda de produtos
+Web site de vendas de tênis 
